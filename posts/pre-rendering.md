@@ -1,6 +1,6 @@
 ---
-title: '今日のレシピ(カレー)'
-date: '2021-08-18'
+title: "Two Forms of Pre-rendering"
+date: "2021-01-01"
 ---
 
 Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
